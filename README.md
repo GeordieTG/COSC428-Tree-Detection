@@ -1,2 +1,2 @@
-# COSC428-Assignment
-Image segmentation and volumtric mapping of a drones surroundings
+# COSC428 Tree Detection
+Using Yolov8 to train a model to detect trees in an image
